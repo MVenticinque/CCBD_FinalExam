@@ -85,8 +85,8 @@ Two ML tasks in [Colab Notebook](https://colab.research.google.com/drive/1XhiXRf
 **Task A — Predict county pay ratio** (Random Forest Regression)
 - Features: sector, state, year, num_employees, num_businesses
 - Target: pay_ratio (county vs state average)
-- Results: $RMSE=0.176$, $R^2=0.31$.
-- Key finding: sector (38%) and state (27%) are strongest predictors.
+- Results: $RMSE=0.182$, $R^2=0.268$.
+- Key finding: sector (37%) and state (28%) are strongest predictors.
 
 **Task B — Predict county wage growth direction** (Random Forest Classification)
 - Features: state, year, avg_pay, tot_businesses.

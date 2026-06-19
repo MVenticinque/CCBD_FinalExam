@@ -98,14 +98,12 @@ Two ML tasks in [Colab Notebook](https://colab.research.google.com/drive/1XhiXRf
 
 ## 6. Data Visualization (Looker Studio)
 
-Dashboard link: `[Link non ancora pronto]`
+[Dashboard link](https://datastudio.google.com/s/rbE9jiSo3Bo)
 
 Charts:
-- Q1: Scatter plot — county vs state average pay by sector
-- Q2: Bar chart — sectors with declining pay in 2020
-- Q3: Line chart — wage growth index by business size (2017=100)
-- Q4: Donut charts — ownership structure by sector (businesses vs employees)
-- Q5: Bubble chart — business growth vs wage decline by county
+- Scatter plot: county vs state average pay by sector.
+- Bar chart: sectors pay change over the years.
+- Geo Map: graphical concentration of counties with high pay_ratio.
 
 ---
 

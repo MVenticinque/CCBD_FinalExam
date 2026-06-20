@@ -26,8 +26,7 @@
 ## 2. Data Ingestion
 
 ### Collect
-To Pull County Business Patterns data from the Census API for all counties and states,
-across 19 NAICS sectors and years 2017–2023, run .
+To Pull County Business Patterns data from the Census API for all counties and states, across 19 NAICS sectors and years 2017–2023, run .
 
 ```bash
 chmod +x ./collect.sh
@@ -110,16 +109,21 @@ Charts:
 ## Local Setup
 
 ```bash
-# install dependencies
-pip install -e .
+# Install dependencies
+pip install -r requirements.txt
+# Or
+uv sync
 
-# set Census API key
+# Set Census API key
 echo "API_KEY=your_key_here" > .env
 
-# run collection + merge
+# Change executability permissions
+chmod +x *.sh
+
+# Run scripts
 ./collect.sh && ./merger.sh
 
-# launch notebook
+# Launch notebook
 jupyter lab
 # Alternatively
 code .
@@ -127,3 +131,4 @@ code .
 
 ### Requirements
 See `pyproject.toml`.
+Or `requirements.txt`

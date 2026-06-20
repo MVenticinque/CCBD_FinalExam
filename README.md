@@ -14,6 +14,7 @@
 ├── data_raw/          # Raw JSON files from Census API (gitignored)
 ├── *.csv              # Merged CSVs (gitignored)
 ├── notebook.ipynb     # Jupyter notebook with project stage
+├── live_stub.ipynb    # Jupyter notebook to be run live
 ├── sql/               # SQL queries and views
 ├── collect.sh         # Data collection script
 ├── merger.sh          # Data merging script

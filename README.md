@@ -72,7 +72,7 @@ Same 5 queries reproduced in [Colab Notebook](https://colab.research.google.com/
 
 Key findings:
 - Hall County GA — Arts & Entertainment 9.5x state average in 2023.
-- Accommodation & Food Services saw -6.3% pay ratio decline in 2021 (COVID effect).
+- Accommodation & Food Services saw -6.3% pay ratio decline in 2020 (COVID effect).
 - Mid-sized businesses showed strongest wage growth.
 - Corporate entities dominate employment but Gov/Nonprofit entities are larger on average in Education and Healthcare.
 

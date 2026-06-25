@@ -8,6 +8,8 @@
 
 **DataBricks Sample:** https://dbc-e1e7e938-30a7.cloud.databricks.com/editor/notebooks/4279585508405796?o=7474652920294532
 
+**Google Cloud Project:** https://console.cloud.google.com/home/dashboard?project=ccbd-exam-2026-maurov
+
 ---
 
 ## Repository Structure
